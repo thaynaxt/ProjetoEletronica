@@ -1,7 +1,6 @@
-# Projeto: Piscou, é Natal! 🎄
-### Disciplina: Eletrônica para Informática 🪫💻
+# Projeto: Piscou, é Natal!
+### Disciplina: Eletrônica para Informática
 ---
-
 ### Equipe 
 - **Estudantes:**
   - [Anderson Maia](https://github.com/TheAnders007)
@@ -10,7 +9,6 @@
   - [Sure Rocha](https://github.com/surerocha)
   - [Thalita Suzy](https://github.com/thalitaasuzy)
   - [Thayná Albano](https://github.com/thaynaxt)
-
 
 ---
 
